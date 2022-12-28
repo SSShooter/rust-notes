@@ -1,12 +1,4 @@
----
-path: '/rust-guide-struct'
-date: '2022-08-16T14:02:21.589Z'
-title: 'Rust 文档笔记 Struct'
-tags: ['tag']
-released: true
-hidden: false
-description: 'description'
----
+# Struct
 
 ```rust
 struct User {

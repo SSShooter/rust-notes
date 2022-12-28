@@ -1,9 +1,5 @@
 ---
-path: '/rust-guide-match'
-date: '2022-08-15T15:05:43.209Z'
-title: 'Rust 文档笔记 枚举和匹配'
-tags: ['tag']
-description: 'description'
+title: '枚举和匹配'
 ---
 
 # {{ $frontmatter.title }}

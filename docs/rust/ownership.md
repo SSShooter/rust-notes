@@ -1,12 +1,4 @@
----
-path: '/rust-guide-ownership'
-date: '2022-08-12T16:48:09.519Z'
-title: 'Rust 文档笔记 Ownership'
-tags: ['coding', 'Rust']
-description: 'description'
----
-
-## Ownership
+# Ownership
 
 - Rust 的每个值都有 owner
 - 某一时刻只会有一个 owner
